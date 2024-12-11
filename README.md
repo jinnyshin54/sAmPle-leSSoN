@@ -8,19 +8,19 @@
 ## special thanks to Dr. Miran Kim (GNU) and her students
 
 # ☃ Sample lessons  
-+ Overview of the project: This project aims to teach middle school students using the story "Little Match Girl," with the primary method of making learning interactive through a code-based application developed using Gradio and Python. This approach focuses on enhancing listening and writing skills.
++ Overview of the project: This project aims to teach middle school students using the story "The Little Match Girl," with the primary method of making learning interactive through a code-based application developed using Gradio and Python. This approach focuses on enhancing listening and writing skills.
 
 ## Useful Links
 |💠[Emoji](https://gist.github.com/rxaviers/7360908) | 💠[ProjectGuide](https://github.com/MK316/Spring2024/blob/main/DLTESOL/project/README.md) | 💠[Reading material](https://americanliterature.com/author/hans-christian-andersen/short-story/the-little-match-girl/) | 💠[CodePage](https://github.com/ShieldEdu/G4-finalproject/blob/main/FPG04.ipynb) | 💠 [APP#1-Wordcloud](https://huggingface.co/spaces/teatwots/wordcloud) | 💠 [APP#2-TTS-listening](https://huggingface.co/spaces/englissi/gstesolfinallistening) | 💠 [APP#3-Cloze test](https://huggingface.co/spaces/englissi/gstesolclozetest) | 💠 [APP#4-Sequencing app](https://huggingface.co/spaces/teatwots/sequencing) | 💠 [APP#5-Grammar Checker](https://huggingface.co/spaces/teatwots/grammarchecking)  | 
 
-## Lesson Plan
+## 🎄Lesson Plan
 
-![Final Banner](https://github.com/ShieldEdu/G4-finalproject/blob/main/Images/The_final_banner3.jpg?raw=true)
+![Final Banner](https://github.com/jinnyshin54/sAmPle-leSSoN/blob/d0eb4f3bfc23d69b10438f25a1f6f3cdee3dd9b2/I'm%20dreaming%20of%20a.png)
 
-## Overview
-This lesson plan is designed for middle school students and focuses on enhancing listening and writing skills through interactive activities using Gradio and Python coding. The lesson is based on the story "The Guardian's Secret."
+## 💡 Overview
+This lesson plan is designed for middle school students and focuses on enhancing listening and writing skills through interactive activities using Gradio and Python coding. The lesson is based on the story "The Little Match Girl"
 
-## Objectives
+## ☃ Objectives
 - 📚 Improve vocabulary knowledge
 - 🎧 Enhance listening comprehension
 - 🧩 Develop sequencing skills
