@@ -4,14 +4,10 @@
 ### 2024년 12월 11일 20:00-21:00
 + [PPT](https://github.com/junkyuhufs/HUFSworkshop/raw/main/data/AI%EC%BD%94%EB%94%A9%EC%98%81%EC%96%B4%EA%B3%BC%EC%A0%9C_%EC%9D%B4%EC%A4%80%EA%B7%9C_20June2024.pdf)
 + [QR code](https://github.com/jinnyshin54/sAmPle-leSSoN/blob/9a6701b25d8d010b5f8b44592e01e900b44389c5/Github%20Page.png)
-    
-### Sample
-+ [App Link2](https://ejun123-ReadAloud.hf.space)
-+ [QR code generator](https://mrkim21.github.io/appfolder/qrcode.html)
 
 ## special thanks to Dr. Miran Kim (GNU) and her students
 
-# ⚔️ Sample lessons  
+# 🪔💡🕯 Sample lessons  
 + Overview of the project: This project aims to teach middle school students using the story "The Guardian's Secret," with the primary method of making learning interactive through a code-based application developed using Gradio and Python. This approach focuses on enhancing listening and writing skills.
 
 ## Useful Links
