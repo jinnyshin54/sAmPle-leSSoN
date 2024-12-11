@@ -28,6 +28,8 @@ This lesson plan is designed for middle school students and focuses on enhancing
 
 ## Tools Used
 
+**Canva:** For creating interresting images.
+
 **Gradio:** For creating interactive web apps.
 
 **Python:** Programming language for implementing Gradio apps.
@@ -105,14 +107,17 @@ This lesson plan is designed for middle school students and focuses on enhancing
 ## Lesson Materials
 
 ### Story Title: The Guardian's Secret 
-+ [text link](https://raw.githubusercontent.com/MK316/Spring2024/main/DLTESOL/project/story02.txt)
++ [text link](https://americanliterature.com/author/hans-christian-andersen/short-story/the-little-match-girl/)
 + [image link](https://github.com/MK316/Spring2024/blob/main/DLTESOL/project/Story02.png)
 
 #### :blush::blue_book:We made a picturing book to help get the story quickly! Click the link below!:)📙
 + [picture book link](https://www.childbook.ai/book/s/the-guardians-secret-spgd)
 
 **<Synopsis>**
-In Echo Ridge, a mountain village enriched with legends of the "Guardian of the Glen" eagle, adventurous Alex discovers an ancient map in a library book that hints at a hidden treasure in Whispering Hollow cave. Along with friends Mia and Sam, Alex embarks on a challenging expedition through dense forests and rugged terrain. Upon reaching the cave, they find not gold, but historical artifacts including a statuette of the Guardian eagle, which they donate to the local museum. This discovery not only cements their status as local heroes but revitalizes the village's interest in its own lore and history, continuing the legend of the Guardian as a symbol of adventure and cultural heritage.
+On a freezing New Year's Eve, a poor little girl wanders the snowy streets, barefoot and shivering. She tries to sell matches to passersby but receives no attention. Unable to return home for fear of her abusive father, who would beat her for not selling any matches, she seeks refuge in a corner of the street.
+Desperately trying to warm herself, she lights one match at a time. Each flame brings her vivid, comforting visions: a warm stove, a lavish feast, and a beautiful Christmas tree. In the glow of the last match, she sees her late grandmother, the only person who ever showed her love and kindness. Longing to be with her, she strikes all the matches, and the visions grow brighter as she feels herself being drawn to her grandmother’s embrace.
+The next morning, passersby find her frozen body, still clutching the burned-out matches. Though she has died, the story implies that her spirit has ascended to a place of eternal peace and happiness with her grandmother.
+The Little Match Girl is a poignant tale about poverty, hope, and the power of imagination, highlighting the stark contrast between human suffering and the indifference of society.
 
 
 ## Huggingface
@@ -121,7 +126,7 @@ In Echo Ridge, a mountain village enriched with legends of the "Guardian of the 
    
 | Gradio Wordcloud App | Gradio TTS Listening App | Gradio Cloze Question App | Gradio Image Sequencing App | Gradio Writing Checker App |
 |:--:|:--:|:--:|:--:|:--:|
-|<a href="https://huggingface.co/spaces/teatwots/wordcloud"> <img src="https://github.com/ShieldEdu/G4-finalproject/blob/main/Images/1.png" alt="wordcloud"> </a>|<a href="https://huggingface.co/spaces/englissi/gstesolfinallistening"> <img src="https://github.com/ShieldEdu/G4-finalproject/blob/main/Images/2.png" alt="tts_app"> </a>|<a href="https://huggingface.co/spaces/englissi/gstesolclozetest"> <img src="https://github.com/ShieldEdu/G4-finalproject/blob/main/Images/3-1.png" alt="cloze_question_app"> </a>|<a href="https://huggingface.co/spaces/teatwots/sequencing"> <img src="https://github.com/ShieldEdu/G4-finalproject/blob/main/Images/4-1.png" alt="image_sequencing_app"> </a>|<a href="https://huggingface.co/spaces/teatwots/grammarchecking"> <img src="https://github.com/ShieldEdu/G4-finalproject/blob/main/Images/5-1.png" alt="writing_checker_app"> </a>|
+|<a href="https://3e4e630ec543a3cef4.gradio.live/"> <img src="https://github.com/jinnyshin54/sAmPle-leSSoN/blob/32c146c65980ab432c133c551d3d2c24e815e0ff/qrcode_3e4e630ec543a3cef4.gradio.live%20(1).png"> </a>|<a href="https://huggingface.co/spaces/englissi/gstesolfinallistening"> <img src="https://github.com/ShieldEdu/G4-finalproject/blob/main/Images/2.png" alt="tts_app"> </a>|<a href="https://huggingface.co/spaces/englissi/gstesolclozetest"> <img src="https://github.com/ShieldEdu/G4-finalproject/blob/main/Images/3-1.png" alt="cloze_question_app"> </a>|<a href="https://huggingface.co/spaces/teatwots/sequencing"> <img src="https://github.com/ShieldEdu/G4-finalproject/blob/main/Images/4-1.png" alt="image_sequencing_app"> </a>|<a href="https://huggingface.co/spaces/teatwots/grammarchecking"> <img src="https://github.com/ShieldEdu/G4-finalproject/blob/main/Images/5-1.png" alt="writing_checker_app"> </a>|
 </div>
 
 ### 기타
