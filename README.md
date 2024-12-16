@@ -111,7 +111,7 @@ This lesson plan is designed for middle school students and focuses on enhancing
 + [image link](https://github.com/MK316/Spring2024/blob/main/DLTESOL/project/Story02.png)
 
 #### :blush::blue_book:We made a picturing book to help get the story quickly! Click the link below!:)📙
-+ [picture book link](https://www.childbook.ai/book/s/the-guardians-secret-spgd)
++ [picture book link](https://www.canva.com/design/DAGY94wWvTs/iZPH1BRIPmDhY4175BKLMA/view?utm_content=DAGY94wWvTs&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h8414184dcf)
 
 **<Synopsis>**
 On a freezing New Year's Eve, a poor little girl wanders the snowy streets, barefoot and shivering. She tries to sell matches to passersby but receives no attention. Unable to return home for fear of her abusive father, who would beat her for not selling any matches, she seeks refuge in a corner of the street.
